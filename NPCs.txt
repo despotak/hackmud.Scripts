@@ -1,0 +1,225 @@
+﻿FULLSEC
+=======
+
+
+HIGHSEC
+=======
+	
+	blackcore
+	bunnybat_hut
+	cyberdine
+	setec_gas
+	soylentbean
+	suborbital_airlines
+	tyrell
+	weyland
+
+
+
+	sammy_l_jack
+
+
+	weyland.access
+
+	weyland.members_only
+
+weyland.access
+		
+			leon
+							7xvjfd
+		
+			luke_5kywalker
+		
+			poitier_27
+		
+			indie_jones
+		
+			shawn_aa
+		
+			firebreathingdragon
+							
+			oz
+		
+			juno_macguff
+		
+			d4ria
+		
+			shareef_j
+		
+			thepowerful
+		
+			mjay_m_walker
+						tf18ew
+								uknown_u72pad.pub_qc1zi9
+								derelict_0cpn3n.entry_qzt14g
+						ija6hy
+								anon_blf261.p_fgkfh7
+								derelict_izra1u.external_4piexa
+								anonymous_nw7e8w.info_o56vlf
+								derelict_rt1amu.entry_vqkjuo
+						j6l3yz
+								anon_n94qjy.access_hief74
+								abndnd_96v95c.pub_info_1s7401
+								derelict_z53qyl.out_dftext
+						i0bt1e
+								uknown_jgdcwn.extern_u9yshb
+								anon_mvqtey.pub_info_3vl5br
+								unknown_dumool.pub_info_i3y13l
+								abndnd_zguo9c.info_u8xj68
+								anonymous_wyxbks.pubinfo_e8vka6
+						2dqfr0
+								abandoned_ngwr55.pub_info_ejska0
+								unidentified_rw83pj.pub_info_y7hmk4
+								uknown_shusvo.p_tteet1
+								anon_17r1vc.extern_8564ul
+						8izk84
+								anon_37eg7f.info_2bs01b
+						4ffq0q
+								unknown_mysodm.external_0v79kl{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								uknown_8505wu.pubinfo_5pi60j{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								anon_hzf9b9.out_4e7udl{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								uknown_h9xf6p.info_4ds2ri{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+						ye04h3
+								abandoned_qb8z9w.public_v7v0s6{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+						7rpu3l
+								anonymous_x4zul4.p_glvaah{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								abndnd_hw2q39.p_gtlxx1{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								unknown_kiuqys.p_l3w76v{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								derelict_mlumx7.extern_cpv9ma{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+						1fl0i1
+								unidentified_l6bdc1.info_7gp7nv{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								unidentified_8olqxk.public_k0s320 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								anon_z316iq.pubinfo_xsoqor {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}
+								anon_yo57v8.pubinfo_wgc8l9{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						s0dwky
+								derelict_5vh8rw.extern_bwd8gb{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								unknown_4r3304.out_vtn336 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+								uknown_yx3c1r.out_bbrkvt {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+								anon_6y9xf8.extern_10f0mb{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						svo4lc
+								uknown_azn758.pub_info_ogdjul {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								anonymous_x177uz.public_1rm61f {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								uknown_w0jmsh.pubinfo_jtk9k9 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								uknown_1wltoc.out_pvny71{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						ziszo5
+								anonymous_38ryvc.access_e7pd8t {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								anonymous_j1zv25.pubinfo_rjhgrs{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						2vs2xj
+								unidentified_ir89ce.access_0aao8p {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}	BREACHED
+								unknown_2guulk.entry_qsm6bw{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						xlzgxa
+								anonymous_gl05pi.out_o8h9qb{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						vu291v
+								abndnd_va0ld9.pubinfo_sjtapt{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								unidentified_izk0rg.out_b972wp{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						m8yf0h
+								unknown_vf7n0j.external_2d2gi5 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		--------
+								anon_qy21rw.pub_info_xhpoyr {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								uknown_8t4mxs.info_tg7wpl {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+								abndnd_yp22ak.p_hb94jw{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}				BREACHED
+						g38p3x
+								abndnd_0kakwu.external_cay96q {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								unknown_sxoam0.access_agcy4i{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						uso2fu
+								anonymous_9oghec.pubinfo_x6k7p7 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}	BREACHED
+								derelict_ftwo9q.pub_klq22n{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						z44ef2
+								abndnd_ii31sf.access_2nvjtq {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								abandoned_qvsl0n.out_fy0fbz {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								abandoned_gna7g6.entry_1i2rvq {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								derelict_mid671.pub_info_obr7dr{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						z90itu
+								uknown_u30rug.pub_info_p6snch {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								anonymous_zqa5i9.access_fb4sx9 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								derelict_v9fai8.access_4ynulq {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								unidentified_90dpwp.pub_pzbd49{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						lpr4r3
+								unknown_hglpgy.external_ex5nj2{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+						ewxk13
+								unidentified_7klc0h.pubinfo_bxo52x{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}	BREACHED
+								unknown_xkmsas.info_vbc4jm{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+						fnjuoz
+								anon_0989o3.external_cypgq4 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}		BREACHED
+								anon_s8p6iq.p_f657kf{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}				BREACHED
+						67c0wo
+								derelict_dncd8g.p_npn9t5 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+								anon_q24mwp.extern_m19lnt {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+								abndnd_9hqeu6.p_srzp5n{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}				BREACHED
+								unidentified_emn33t.access_4kn05q{CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}	con_spep -> sn_w_glock -> acct_nt
+								unknown_xz2wrg.pub_urk7m0 {CON_SPEC:#s.archangel.con_spec_scriptor_free, sn_w_glock:"", acct_nt:0}			BREACHED
+		
+			m_clarke_dunk
+		
+			tchalla
+		
+			amelie
+		
+			daa_freak
+		
+			lion_eyes
+		
+			thadd_0s
+		
+			q_bey
+		
+			chad_bose
+		
+			diamond_dogz
+		
+			boris
+
+
+█  ▀  ▄
+                                ███████████████████████                                                      
+█▀▀▀▀▀█ ▀█▀█▀ █▀▀▀▀▀█			█ ▄▄▄▄▄ █▄ ▄ ▄█ ▄▄▄▄▄ █
+█ ███ █  ██▄  █ ███ █			█ █   █ ██  ▀██ █   █ █
+█ ▀▀▀ █   ▀▄█ █ ▀▀▀ █			█ █▄▄▄█ ███▄▀ █ █▄▄▄█ █
+▀▀▀▀▀▀▀ █▄█▄█ ▀▀▀▀▀▀▀			█▄▄▄▄▄▄▄█ ▀ ▀ █▄▄▄▄▄▄▄█
+▀▀▄▀█▄▀▄ ▀▀ █ █ ▄▄▄▄▀			█▄▄▀▄ ▀▄▀█▄▄█ █ █▀▀▀▀▄█
+ ▄ █▄ ▀▄▄▀▄▄ ▀▀ ▀▀█▀▀			██▀█ ▀█▄▀▀▄▀▀█▄▄█▄▄ ▄▄█
+ ▀▀ ▀▀▀▀▄██▄▄ ▀   ▄▄▀			██▄▄█▄▄▄▄▀  ▀▀█▄███▀▀▄█
+█▀▀▀▀▀█  ▀▀▄██▀▀▀ ▄				█ ▄▄▄▄▄ ██▄▄▀  ▄▄▄█▀███
+█ ███ █ ██▄██ ▀█ ▀ ▀▀			█ █   █ █  ▀  █▄ █▄█▄▄█
+█ ▀▀▀ █ ▄█   ▄█▄▀█▄██			█ █▄▄▄█ █▀ ███▀ ▀▄ ▀  █
+▀▀▀▀▀▀▀ ▀  ▀   ▀▀▀				█▄▄▄▄▄▄▄█▄██▄███▄▄▄████
+
+
+
+
+
+███████████████████████████
+█ ▄▄▄▄▄ ██▄▄ ▀▄████ ▄▄▄▄▄ █
+█ █   █ █▀▄  ▀▀▄▀ █ █   █ █
+█ █▄▄▄█ █▄▀ █ ▀▄███ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄▀ █▄▀▄█▄▄▄▄▄▄▄█
+█▄▄▀▀█ ▄▄█▄ ▀█▀▄ █▀█▀  ▀▀██
+█▀▀▄█  ▄▀▀▄▀██▄ ▄▄▄ ▀█ █▄ █
+█ ▀██▄█▄▀█▄  ▄▀█▀ ▀▄▀███▀▄█
+█ █▄▄ █▄▀ ▄▄█▄██▄██ ██▄▀▄ █
+█▄██▄█▄▄▄ ▄▀▀█ ▄█ ▄▄▄ █ ███
+█ ▄▄▄▄▄ █ ▄   ██▀ █▄█ ▄██ █
+█ █   █ ██ ▄▀█▄▄ ▄▄ ▄▄ ▄ ▀█
+█ █▄▄▄█ █▀▀▄██▄▄█ ▀█ ▀█▄█ █
+█▄▄▄▄▄▄▄█▄▄▄▄▄██▄▄████▄██▄█
+
+
+dtr.man{create:"lib.qr_inverter", short:"Inverts the order QR codes of T2 NPCs", description:"Cleans and inverts the colors of the QR codes so that can be read by smartphones."}
+
+
+dtr.man{update:"lib.qr_inverter", short:"Inverts the order QR codes of T2 NPCs", description:"Cleans and inverts the colors of the QR codes so that can be read by smartphones.\nIt uses drakk.qr to get the QRs from the targeted corp user. All copyrights to @`Jdrakk` for that."}
+
+dtr.man{update:"lib.qr_inverter", art:"███████████████████████████\n█ ▄▄▄▄▄ ██▄▄ ▀▄████ ▄▄▄▄▄ █\n█ █   █ █▀▄  ▀▀▄▀ █ █   █ █\n█ █▄▄▄█ █▄▀ █ ▀▄███ █▄▄▄█ █\n█▄▄▄▄▄▄▄█▄▀▄▀ █▄▀▄█▄▄▄▄▄▄▄█\n█▄▄▀▀█ ▄▄█▄ ▀█▀▄ █▀█▀  ▀▀██\n█▀▀▄█  ▄▀▀▄▀██▄ ▄▄▄ ▀█ █▄ █\n█ ▀██▄█▄▀█▄  ▄▀█▀ ▀▄▀███▀▄█\n█ █▄▄ █▄▀ ▄▄█▄██▄██ ██▄▀▄ █\n█▄██▄█▄▄▄ ▄▀▀█ ▄█ ▄▄▄ █ ███\n█ ▄▄▄▄▄ █ ▄   ██▀ █▄█ ▄██ █\n█ █   █ ██ ▄▀█▄▄ ▄▄ ▄▄ ▄ ▀█\n█ █▄▄▄█ █▀▀▄██▄▄█ ▀█ ▀█▄█ █\n█▄▄▄▄▄▄▄█▄▄▄▄▄██▄▄████▄██▄█\n"  }
+
+
+t:#s.NPC.loc, u:"username", c:"command"
+
+dtr.man{update:"lib.qr_inverter", add_args:[{name:"t", type:"scriptor", mode:"CLI Mode", description:"Scriptor to the targeted HIGHSEC NPC corp.", optional:false }] }
+
+dtr.man{update:"lib.qr_inverter", add_args:[{name:"u", type:"string", description:"Targeted username.", optional:false, mode:"CLI Mode" }] }
+
+dtr.man{update:"lib.qr_inverter", add_args:[{name:"c", type:"string", description:"Navigation command of the targeted corp.", optional:false, mode:"CLI Mode" }] }
+
+
+dtr.man{update:"lib.qr_inverter", add_args:[{name:"qr", type:"string", description:"QR code in string format including \"\\n\".\nYou can pass the whole sting as it is returned by the NPC and the script will parse it and retrun all the QRs", optional:false, mode:"LIB Mode" }] }
+
+dtr.man{update:"lib.qr_inverter", }
